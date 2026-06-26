@@ -250,3 +250,4 @@ Types: feat, fix, perf, refactor, docs, test, chore
 ## License
 
 Copyright 2026 Acme Horizon GmbH. All rights reserved. This repository contains proprietary software and is intended for internal use and authorized customer integrations only.
+
